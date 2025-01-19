@@ -1,0 +1,13 @@
+echo "# Wishlist Core Architecture
+
+## Data Layer
+- WishlistRepository
+- WishlistDAO
+- WishlistEntity
+
+## Domain Layer
+- WishlistUseCase
+- WishlistInteractor
+
+## Presentation Layer
+- WishlistViewModel" > architecture.txt
