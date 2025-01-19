@@ -1,0 +1,12 @@
+echo "# Wishlist UI Components
+
+## Screens
+- WishlistFragment
+- WishlistDetailFragment
+
+## Custom Views
+- WishlistItemView
+- EmptyWishlistView
+
+## Adapters
+- WishlistAdapter" > ui_components.txt
