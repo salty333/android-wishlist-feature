@@ -1,0 +1,5 @@
+echo "Button Styles:
+1. Wishlist Button:
+   - Size: 48dp x 48dp
+   - Corner Radius: 24dp
+   - Font: Roboto Bold" > button_styles.txt
