@@ -1,0 +1,11 @@
+echo "Wishlist Button Component:
+1. Button Properties:
+   - Size: 48dp x 48dp
+   - Icon: heart_outline.xml
+   - Background: Circular, white
+   - Elevation: 4dp
+
+2. States:
+   - Normal: White bg, Gray icon
+   - Selected: Red bg, White icon
+   - Pressed: Dark red bg" > wishlist_button.txt
