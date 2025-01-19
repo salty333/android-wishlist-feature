@@ -1,5 +1,14 @@
-echo "Button Styles:
-1. Wishlist Button:
+echo "Global Button Styles:
+1. Default Button:
+   - Height: 48dp
+   - Corner Radius: 8dp
+   - Font: Roboto Medium
+
+2. Icon Button:
+   - Size: 48dp x 48dp
+   - Corner Radius: 24dp" > button_styles.txt
+
+3. Wishlist Button:
    - Size: 48dp x 48dp
    - Corner Radius: 24dp
    - Font: Roboto Bold" > button_styles.txt
