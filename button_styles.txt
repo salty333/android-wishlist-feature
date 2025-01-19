@@ -1,0 +1,9 @@
+echo "Global Button Styles:
+1. Default Button:
+   - Height: 48dp
+   - Corner Radius: 8dp
+   - Font: Roboto Medium
+   
+2. Icon Button:
+   - Size: 48dp x 48dp
+   - Corner Radius: 24dp" > button_styles.txt
